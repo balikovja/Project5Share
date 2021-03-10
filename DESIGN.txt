@@ -1,0 +1,13 @@
+Functions left in Functions.java and why:
+adjacent - utility method nothing helped by putting in point
+processLine - utility method, no idea where else you would put it
+all parse methods - utility methods, no idea where else you would put them
+all create methods - utility methods, no idea where else you would put them
+clamp - utility method with no logical/necessary place besides Functions.java
+distanceSquared - utility method with no logical/necessary place besides Functions.java
+setAlpha - felt unnecessary to move, didnt seem to go anywhere and didnt work in imagestore
+load - nothing gained by putting in a class
+nearestEntity - nothing gained by putting in a class
+getImages - felt unnecessary to move, didnt seem to go anywhere and didnt work in imagestore
+processImageLine - utility method, no idea where else you would put it
+getCurrentImage - didnt seem to belong anywhere and was no problem in functions. Made it seem unnecessary to move
